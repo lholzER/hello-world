@@ -1,5 +1,5 @@
 # hello-world
 Hello! My name is Lucius Holzinger
-I'm studying Computer Science
-I'm interested in fitness, skateboarding and video games
-My favorite food is 
+I'm studying Computer Science at PLU 
+My hobbies include fitness, snowboarding and backpacking
+My favorite food is beef jerky
